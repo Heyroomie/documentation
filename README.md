@@ -84,6 +84,38 @@ Though some of the more technical documentation will be done directly in Github,
 
 ---
 
+# Manage my listings
+
+**View on InVision here:**
+
+![]()
+
+---
+
+# Account settings
+
+**View on InVision here:**
+
+![]()
+
+---
+
+# Payments / invoices
+
+**View on InVision here:**
+
+![]()
+
+---
+
+# Notification settings (email / text)
+
+**View on InVision here:**
+
+![]()
+
+---
+
 # Inbox
 
 **View on InVision here:**
