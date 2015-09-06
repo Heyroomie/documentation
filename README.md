@@ -14,11 +14,11 @@ Though some of the more technical documentation will be done directly in Github,
 
 - The homepage has an infinite scroll (the page should pre-load new rooms when the user is close to end of the existing lot of rooms displaying, in order to maintain a seamless scroll).
 
-- Clicking a heart adds the room to the users shortlist. If they're not logged in, the login prompt will come up. **(This is a future feature, and won't be included in the first release).**
-
 - The image at the top of the page will actually be a looped video of the city or country where people are accessing the website, to give it a very personalised feel.
 
 - The text "Melbourne" is dynamic, and changes to the city the person accessing the website is located in, to again add a personalised experience.
+
+- Clicking a heart adds the room to the users shortlist. If they're not logged in, the login prompt will come up. **(This is a future feature, and won't be included in the first release).**
 
 ---
 
@@ -27,6 +27,12 @@ Though some of the more technical documentation will be done directly in Github,
 **View on InVision here:** https://invis.io/FU43Z0NG8
 
 ![](https://projects.invisionapp.com/static-signed/live-embed/26271975/100033368/1/latest/2BPlEiu343uepsmNExhfdlKS5RZv6wekCL4UCfnHlEkBYzta5Wdn6jxKlEvymm9ilEFDg0h2l0shJuKgCdrq4F70kglE/1.-Home-expanded-2x.jpg)
+
+- The price ranges are fixed values. The user cannot type a custom value. This is to simplify pricing across the website, and maintain conststent, readable, relatabel figures.
+
+- The features dropdown consits of a tags-based-ui, whereby there are a variety of tags which can be clicked (to turn on / off). These tags act as filters. For example, if "Fast Internet" is selected, the rooms below will reload and only show rooms with fast internet, everything else will be excluded. After showing all queries that have an exact-match, e.g. having Fast Internet, show partial matches, e.g. rooms that might only meet the price selected. This is to eliminate showing blank search results.
+
+- The "Where" / location field is auto-populated with the persons city (based on their IP data). When the user goes to change this value, there is a realtime, partial matching dropdown that speeds up searching for locations. Not only that, but the text itself will auto-expand in a slightly lighter colour (as seen in the design).
 
 ---
 
