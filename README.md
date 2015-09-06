@@ -44,6 +44,14 @@ Though some of the more technical documentation will be done directly in Github,
 
 ---
 
+# Upload images
+
+**View on InVision here:** https://invis.io/RX43Z6U9J
+
+![](https://projects.invisionapp.com/static-signed/live-embed/26271975/100039581/1/latest/lEZcmtj6JjVjc7fBxQn0mbqRGWcbii5HfQSlEQbsh7b3d0YIo4bmlEFp9rACXtRlEW8AFImlEKlEGmT0sai5kIWRKH0AlE/Images-2x.jpg)
+
+---
+
 # Payment
 
 **View on InVision here:** https://invis.io/Q443Z11XW
