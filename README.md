@@ -50,6 +50,24 @@ Though some of the more technical documentation will be done directly in Github,
 
 ![](https://projects.invisionapp.com/static-signed/live-embed/26271975/100033518/1/latest/FwK6wVgFDXTlEY8dQcpxjNziycsCVglEbereZzRSRQ2bnVuoG1wxk1a61AQ2UClE7yZlIxNIsyuMIF7fo05VzK97glE/list-2x.jpg)
 
+- Again, the weekly rent dropdown will have fixed pricing, which is the same pricing that is searchable on the homepage, for example.
+
+- Initial bond is a fixed-value that the user cannot change (to simplify things). The initial bond should be auto-generated based on the rent value. **The formula is simply: rent x 4 = bond.**
+
+- Home type and room type are all simple selectable buttons.
+
+- Bathrooms is a fixed-value, numeretical dropdown that goes up to 9 bathrooms.
+
+- Parking is a yes / no value (to keep things simple).
+
+- Furnished is a yes / no value (to keep things simple).
+
+- Place features uses the same tags system as seen on the homepage before. These are all pre-define values that the user cannot change. They are simple selectable buttons. All of these tags can be queried via search.
+
+- Area features uses the same tags system as the above point; however, it takes it a step further by using these values to generate pins on a map (on the expanded listing page), where the user can see what is closeby to the room.
+
+- About place is a simple textbox that is limited in characters to the amount in the design (might be nice to have a counter).
+
 ---
 
 # List room (expanded)
