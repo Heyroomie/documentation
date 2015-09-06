@@ -10,6 +10,12 @@ Though some of the more technical documentation will be done directly in Github,
 
 ![](https://projects.invisionapp.com/static-signed/live-embed/26271975/100033284/2/latest/aPPMrDlEuzAUaaPG4LfUKcmklEfFlEJC4qrIflHYSJTilE2ZW8PDRkBOQlEHLuoAwG1RGNJ0qPVuIuqcAdirszaxFrAlE/1.-Home-2x.jpg)
 
+- When a change to one of the dropdowns is made, the rooms below will automatically reload to accomodate for the new changes. E.g. if the price is changed from $250 - $300, to $300 - $350, the rooms below will reload according to the new price. This will not refresh the page, only the content.
+- The homepage has an infinite scroll (the page should pre-load new rooms when the user is close to end of the existing lot of rooms displaying, in order to maintain a seamless scroll).
+- Clicking a heart adds the room to the users shortlist. If they're not logged in, the login prompt will come up. **(This is a future feature, and won't be included in the first release).**
+- The image at the top of the page will actually be a looped video of the city or country where people are accessing the website, to give it a very personalised feel.
+- The text "Melbourne" is dynamic, and changes to the city the person accessing the website is located in, to again add a personalised experience.
+
 ---
 
 # Homepage expanded
