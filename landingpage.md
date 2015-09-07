@@ -6,7 +6,7 @@
 ### Beta / staging
 - http://heyroomie.webflow.io
 
-### Previous versions
+### Versions
 - 
 
 # Design
