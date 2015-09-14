@@ -8,7 +8,7 @@ Though some of the more technical documentation will be done directly in Github,
 
 **View on InVision here:** https://invis.io/U943Z0FNB
 
-![](https://projects.invisionapp.com/static-signed/live-embed/26271975/100033284/2/latest/aPPMrDlEuzAUaaPG4LfUKcmklEfFlEJC4qrIflHYSJTilE2ZW8PDRkBOQlEHLuoAwG1RGNJ0qPVuIuqcAdirszaxFrAlE/1.-Home-2x.jpg)
+![](http://jmitch.me/github/trello.jpg)
 
 - When a change to one of the dropdowns is made, the rooms below will automatically reload to accomodate for the new changes. E.g. if the price is changed from $250 - $300, to $300 - $350, the rooms below will reload according to the new price. This will not refresh the page, only the content.
 
